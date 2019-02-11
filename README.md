@@ -1,4 +1,4 @@
-An assortment of mini-projects I've worked on:
+An assortment of mini-things I've worked on:
 
 ### Projects:  
 * [Is Grad School Making Me Fat?](is_grad_school_making_me_fat.ipynb) is an R-based time series analyis of weight fluctations for n = Ong subjects.
